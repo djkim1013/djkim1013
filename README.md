@@ -5,4 +5,4 @@
   + PC방 키오스크 미니프로젝트: https://github.com/horiJY/kitri94 (동주 branch)
   + 온/오프라인 수강 사이트 미니프로젝트: https://github.com/horiJY/kitri-takeit (동주 branch)
 
-- contact: dongjukim1013@gamil.com
+- contact: dongjukim1013@gmail.com
