@@ -1,5 +1,5 @@
 ### 백엔드 개발자 지망생 김동주 @djkim1013 입니다.
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=black"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 
 
 
@@ -8,12 +8,12 @@
 ### 관련 레포지토리:
   
   + PC방 키오스크 미니프로젝트: https://github.com/horiJY/kitri94 (동주 branch)
-    - Java, Java Swing
+    - Java, Java Swing, Oracle
     - Socket 통신, Apache-Tomcat 서버
     - 백엔드의 좌석 배정, 회수, 사용시간 추가, 사용시간 만료 처리, 관리자와 좌석간의 채팅 구현
 
   + 온/오프라인 수강 사이트 미니프로젝트: https://github.com/horiJY/kitri-takeit (동주 branch)
-    - Java, Servlet, Jsp, Ajax, Javascript, HTML/CSS, Mybatis
+    - Java, Servlet, Jsp, Ajax, Javascript, HTML/CSS, Mybatis, Oracle
     - 웹, Apache-Tomcat 서버
     - 강의 개설 페이지, 강의 개설 시 사용자의 등록된 일정에 따른 개설 가능 여부 응답 기능 구현
 
