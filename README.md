@@ -2,8 +2,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djkim1013&show_icons=true&theme=radical)
 
-
-#### 경험 스택:
 - Java
 - Spring framework
 - Spring Boot
